@@ -1,3 +1,4 @@
 # Quick Thoughts
 Draft tuning plan
 Record user stories
+Implement lazy loading for off-screen images and components
